@@ -27,6 +27,9 @@ To get a local copy up and running follow these simple example steps.
 
 Once you've obtained the node_modules file from the proton drive, and pasted it into the same folder where `package.json` is, `cd` into the UTbot folder
 
+Download the node_modules folder here: https://drive.protonmail.com/urls/VZD37K9ZVW#XR0hBb5LAhG7
+Copy that folder to the outmost folder (where `package.json` and `package-lock.json` are located)
+
 ```sh
 cd src/UTbot
 ```
