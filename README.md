@@ -12,7 +12,8 @@
   </p>
 </p>
 
-
+## Disclaimer:
+This program is built for example purposes, it should not under any circumstance be used on Discord or it's related services. You are responsible for the use of this program and the author bares no responsibility.
 
 ## Built With
 
